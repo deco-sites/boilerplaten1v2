@@ -137,8 +137,8 @@ function NavItem({ item }: { item: INavItem }) {
         <span
           class={`relative text-sm transition-all font-bold duration-300 ${
             highlighted
-              ? "text-primary"
-              : "text-white group-hover:text-secondary"
+              ? "text-base-content"
+              : "text-white group-hover:text-emphasis"
           }`}
         >
           {label}

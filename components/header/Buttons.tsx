@@ -16,7 +16,7 @@ function SearchButton() {
       }}
     >
       <Icon
-        class="text-primary"
+        class="text-base-content"
         id="MagnifyingGlass"
         width={24}
         height={25}
@@ -37,7 +37,7 @@ function MenuButton() {
         displayMenu.value = true;
       }}
     >
-      <Icon class="text-primary" id="Menu" width={25} height={25} />
+      <Icon class="text-base-content" id="Menu" width={25} height={25} />
     </Button>
   );
 }
@@ -52,7 +52,7 @@ function ChatButton() {
       }}
     >
       <Icon
-        class="text-primary"
+        class="text-base-content"
         id="Chat"
         width={24}
         height={25}

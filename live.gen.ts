@@ -261,7 +261,8 @@ const manifest = {
     "$live/sections/PageInclude.tsx": i1$$$$2,
     "$live/sections/Slot.tsx": i1$$$$3,
     "$live/sections/UseSlot.tsx": i1$$$$4,
-    "deco-sites/boilerplaten1v2/sections/Category/CategoryBanner.tsx": $$$$$$$$0,
+    "deco-sites/boilerplaten1v2/sections/Category/CategoryBanner.tsx":
+      $$$$$$$$0,
     "deco-sites/boilerplaten1v2/sections/Category/CategoryBreadcrumb.tsx":
       $$$$$$$$1,
     "deco-sites/boilerplaten1v2/sections/Category/CategoryList.tsx": $$$$$$$$2,
@@ -283,10 +284,12 @@ const manifest = {
     "deco-sites/boilerplaten1v2/sections/Images/BannerGrid.tsx": $$$$$$$$17,
     "deco-sites/boilerplaten1v2/sections/Images/Carousel.tsx": $$$$$$$$18,
     "deco-sites/boilerplaten1v2/sections/Images/ImageGallery.tsx": $$$$$$$$19,
-    "deco-sites/boilerplaten1v2/sections/Images/ShoppableBanner.tsx": $$$$$$$$20,
+    "deco-sites/boilerplaten1v2/sections/Images/ShoppableBanner.tsx":
+      $$$$$$$$20,
     "deco-sites/boilerplaten1v2/sections/Institutional/AccordionsContent.tsx":
       $$$$$$$$21,
-    "deco-sites/boilerplaten1v2/sections/Institutional/AsideMenu.tsx": $$$$$$$$22,
+    "deco-sites/boilerplaten1v2/sections/Institutional/AsideMenu.tsx":
+      $$$$$$$$22,
     "deco-sites/boilerplaten1v2/sections/Institutional/CardsContent.tsx":
       $$$$$$$$23,
     "deco-sites/boilerplaten1v2/sections/Institutional/ContactForm.tsx":
@@ -301,13 +304,15 @@ const manifest = {
       $$$$$$$$29,
     "deco-sites/boilerplaten1v2/sections/Miscellaneous/CookieConsent.tsx":
       $$$$$$$$30,
-    "deco-sites/boilerplaten1v2/sections/Miscellaneous/NotFound.tsx": $$$$$$$$31,
+    "deco-sites/boilerplaten1v2/sections/Miscellaneous/NotFound.tsx":
+      $$$$$$$$31,
     "deco-sites/boilerplaten1v2/sections/Miscellaneous/ProxyIframe.tsx":
       $$$$$$$$32,
     "deco-sites/boilerplaten1v2/sections/Newsletter/Newsletter.tsx": $$$$$$$$33,
     "deco-sites/boilerplaten1v2/sections/Newsletter/NewsletterModal.tsx":
       $$$$$$$$34,
-    "deco-sites/boilerplaten1v2/sections/Product/ProductDetails.tsx": $$$$$$$$35,
+    "deco-sites/boilerplaten1v2/sections/Product/ProductDetails.tsx":
+      $$$$$$$$35,
     "deco-sites/boilerplaten1v2/sections/Product/ProductShelf.tsx": $$$$$$$$36,
     "deco-sites/boilerplaten1v2/sections/Product/SearchResult.tsx": $$$$$$$$37,
     "deco-sites/boilerplaten1v2/sections/Product/Wishlist.tsx": $$$$$$$$38,

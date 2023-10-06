@@ -220,6 +220,6 @@ Check performance best practices on [deco.cx's docs](https://www.deco.cx/docs).
 
 # Thanks to all contributors!
 
-<a href="https://github.com/deco-sites/costaatacado/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=deco-sites/costaatacado" />
+<a href="https://github.com/deco-sites/boilerplaten1v2/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=deco-sites/boilerplaten1v2" />
 </a>

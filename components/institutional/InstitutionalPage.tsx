@@ -1,7 +1,7 @@
 import { Head } from "$fresh/runtime.ts";
 import { Section } from "$live/blocks/section.ts";
 import type { BlockInstance } from "$live/engine/block.ts";
-import type { Manifest } from "deco-sites/boilerplaten1v2/live.gen.ts";
+import type { Manifest } from "$store/live.gen.ts";
 import Icon from "$store/components/ui/Icon.tsx";
 
 export interface Props {
